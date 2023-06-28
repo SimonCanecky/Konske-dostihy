@@ -11,3 +11,5 @@
 - Na konci pretekov sa vypíše poradie v akom kone dobehli do cieľa.
 #
 ![image](https://github.com/SimonCanecky/Konske-dostihy/assets/71691945/95d19e5e-c3c2-416e-aa3d-82b7f627bc8f)
+#
+![image](https://github.com/SimonCanecky/Konske-dostihy/assets/71691945/61e1f291-8338-4259-b079-4260158f7de4)
