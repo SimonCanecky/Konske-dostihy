@@ -10,4 +10,5 @@
 - Ak kôň vstúpi na prekážku, aplikuje sa penalizácia alebo eliminácia koňa z pretekov. 
 - Na konci pretekov sa vypíše poradie v akom kone dobehli do cieľa.
 #
+
 ![image](https://github.com/SimonCanecky/Konske-dostihy/assets/71691945/61e1f291-8338-4259-b079-4260158f7de4)
