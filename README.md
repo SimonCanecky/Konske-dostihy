@@ -9,3 +9,5 @@
 - Pretekajúce kone sa posúvajú po dráhe na základe náhodného čísla hodeného hracou kockou. 
 - Ak kôň vstúpi na prekážku, aplikuje sa penalizácia alebo eliminácia koňa z pretekov. 
 - Na konci pretekov sa vypíše poradie v akom kone dobehli do cieľa.
+#
+![image](https://github.com/SimonCanecky/Konske-dostihy/assets/71691945/95d19e5e-c3c2-416e-aa3d-82b7f627bc8f)
